@@ -1,0 +1,17 @@
+name: bm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - appdirs
+    - mne
+    - scipy
+    - tqdm
+    - wfdb
+    - pecg

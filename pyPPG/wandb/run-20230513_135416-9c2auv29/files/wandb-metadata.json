@@ -1,0 +1,162 @@
+{
+    "os": "Linux-3.10.0-1160.59.1.el7.x86_64-x86_64-with-glibc2.17",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-05-13T10:54:18.247529",
+    "startedAt": "2023-05-13T10:54:16.596667",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "nlp14.iem.technion.ac.il",
+    "username": "meiri.yoav",
+    "executable": "/data/home/meiri.yoav/miniconda3/envs/bioml/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 1201.9905,
+        "min": 1200.0,
+        "max": 4400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1236.889,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.25,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.25,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1219.366,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1203.613,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.25,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.427,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1200.073,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1224.145,
+            "min": 1200.0,
+            "max": 4400.0
+        },
+        {
+            "current": 1199.896,
+            "min": 1200.0,
+            "max": 4400.0
+        }
+    ],
+    "disk": {
+        "total": 163.79888916015625,
+        "used": 78.1097412109375
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        },
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 125.42950820922852
+    }
+}
