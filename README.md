@@ -1,4 +1,5 @@
-# Atrial Fibrillation Detection From-PPG
+# Atrial Fibrillation Detection From PPG
+## 336018 - Machine Learning for Physiological Time Series Analysis
 
 Atrial fibrillation (AF) is the most prevalent 
 arrhythmia, resulting in varying and irregular heartbeats. AF 
